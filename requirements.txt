@@ -28,7 +28,7 @@ repoze.lru==0.6 \
 #    --hash=sha256:0f7a323bf716d3cb6cb3910cd4fccbee0b3d3793322738566ecce163b01bbd31
 simplejson==2.0.9 \
 #    --hash=sha256:abcdf460778beff48ba13faf5b5810cf3803e5c8d872b5fc529226aa56ec93ee
-sqlalchemy==0.7.1 \
+sqlalchemy==1.2.18 \
 #    --hash=sha256:5ef95d19c31a8cd3905c697be0a7e94e70ab1926ecd4159c3e6c1cf01fc3c492
 sqlalchemy-migrate==0.7.2 \
 #    --hash=sha256:7f55c768ee26f143fedb11b365a4c57c3bbdb5211e049c7f04b8ae8107c28333
