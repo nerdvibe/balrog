@@ -22,7 +22,7 @@ jsonschema==2.5.1 \
 #    --hash=sha256:36673ac378feed3daa5956276a829699056523d7961027911f064b52255ead41 --hash=sha256:71e7b3bcf9fca408bcb65bb60892f375d3abdd2e4f296eeeb8fe0bbbfcde598e
 mysql-python==1.2.3 \
 #    --hash=sha256:7de66fbbf923634e7c965aeaefa74642ba75ae20ee1cefcefc3009595b7a7e6e
-pyyaml==3.11 \
+pyyaml==5.4 \
 #    --hash=sha256:c36c938a872e5ff494938b33b14aaa156cb439ec67548fcab3535bb78b0846e8
 repoze.lru==0.6 \
 #    --hash=sha256:0f7a323bf716d3cb6cb3910cd4fccbee0b3d3793322738566ecce163b01bbd31
